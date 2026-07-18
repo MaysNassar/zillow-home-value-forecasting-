@@ -2,6 +2,7 @@
 
 This repo contains my submission for the Time Series Analysis and Tableau belt exam. It covers preparing Zillow home value data as a time series, forecasting Oregon home prices with ARIMA/SARIMA, and building a Tableau story from the processed data.
 
+<img width="824" height="581" alt="image" src="https://github.com/user-attachments/assets/4b1a9fce-19d7-4c0f-9e32-c3a8ec0afca1" />
 
 ## Data
 
@@ -75,6 +76,7 @@ auto_arima, ARIMA(0,2,0)(0,0,0)
 
 
 -------
+
 
 
 ## Tools & Libraries
